@@ -1,0 +1,5 @@
+﻿  Task4.cpp
+  Создание кода
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(12): error C4700: использована неинициализированная локальная переменная "event"
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: не удалось создать код

@@ -1,0 +1,44 @@
+﻿  Task4.cpp
+d:\oop_task4\oop_task4\oop_task4\mainmenu.h(108): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\mainmenu.h(113): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\mainmenu.h(132): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\mainmenu.h(139): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\mainmenu.h(254): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\mainmenu.h(260): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\mainmenu.h(270): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\mainmenu.h(274): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\mainmenu.h(281): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\mainmenu.h(285): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(28): warning C4244: =: преобразование "time_t" в "long", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(102): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(112): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(122): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(167): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(218): warning C4305: аргумент: усечение из "double" в "float"
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(296): warning C4305: инициализация: усечение из "double" в "float"
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(322): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(381): warning C4305: =: усечение из "double" в "float"
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(409): warning C4305: =: усечение из "double" в "float"
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(456): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(460): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(464): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(468): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(472): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(476): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(480): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(493): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(497): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(501): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(516): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(520): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\task4.cpp(524): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+d:\oop_task4\oop_task4\oop_task4\electpoezd.h(296): warning C4715: ElPoezd::setName: значение возвращается не при всех путях выполнения
+d:\oop_task4\oop_task4\oop_task4\electpoezd.h(314): warning C4715: ElPoezd::setSomeSt: значение возвращается не при всех путях выполнения
+d:\oop_task4\oop_task4\oop_task4\electpoezd.h(308): warning C4715: ElPoezd::setStartStation: значение возвращается не при всех путях выполнения
+d:\oop_task4\oop_task4\oop_task4\electpoezd.h(302): warning C4715: ElPoezd::setSpeed: значение возвращается не при всех путях выполнения
+d:\oop_task4\oop_task4\oop_task4\electpoezd.h(320): warning C4715: ElPoezd::setEndStation: значение возвращается не при всех путях выполнения
+d:\oop_task4\oop_task4\oop_task4\electpoezd.h(326): warning C4715: ElPoezd::setSomeTimeStops: значение возвращается не при всех путях выполнения
+d:\oop_task4\oop_task4\oop_task4\electpoezd.h(416): warning C4715: Station::setDistToNextStation: значение возвращается не при всех путях выполнения
+d:\oop_task4\oop_task4\oop_task4\electpoezd.h(422): warning C4715: Station::setName: значение возвращается не при всех путях выполнения
+d:\oop_task4\oop_task4\oop_task4\electpoezd.h(443): warning C4715: Station::setIsIncluded: значение возвращается не при всех путях выполнения
+  oop_task4.vcxproj -> D:\OOP_Task4\oop_task4\x64\Debug\oop_task4.exe
